@@ -1,7 +1,10 @@
-# GhostESP Android RAT
+# PhantomReach Android RAT
 
 ## Description
 A remote administration tool (RAT) for Android, enabling device monitoring and control via a C2 server. Includes keylogging, command execution, and device info collection.
+
+## Detailed Notes
+Provided in "ratty" pdf file
 
 ## Structure
 - `app/` – Android app source (Java)
